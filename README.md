@@ -1,5 +1,3 @@
-# PhD
-
 Covid-19
 -
 [USA-Canada](https://coronavirus.1point3acres.com/#stat) : [School closures](https://coronavirus.1point3acres.com/en/school)
