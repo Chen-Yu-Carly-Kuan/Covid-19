@@ -2,7 +2,7 @@
 
 Covid-19
 -
-[USA-School closures](https://coronavirus.1point3acres.com/en/school)
+[USA-Canada](https://coronavirus.1point3acres.com/#stat) : [including school closures](https://coronavirus.1point3acres.com/en/school)
 
 [Germany-Coronavirus-Monitor](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
 
