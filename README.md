@@ -8,4 +8,4 @@ Covid-19
 
 [Taiwan Can Help](https://www.facebook.com/mofa.gov.tw/posts/775854092939235?__tn__=K-R)[
 
-[Informationisbeautiful](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)
+[Information is beautiful](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)
