@@ -1,3 +1,3 @@
 # PhD
 
-[USA-School close](https://coronavirus.1point3acres.com/en/school)
+[USA-School closures](https://coronavirus.1point3acres.com/en/school)
