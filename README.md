@@ -6,4 +6,4 @@ Covid-19
 
 [Johns Hopkins coronavirus map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
-[TaiwanCanHelp](https://www.facebook.com/mofa.gov.tw/posts/775854092939235?__tn__=K-R)
+[Taiwan Can Help](https://www.facebook.com/mofa.gov.tw/posts/775854092939235?__tn__=K-R)
