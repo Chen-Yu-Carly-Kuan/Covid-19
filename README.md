@@ -1,5 +1,8 @@
 Covid-19
 -
+
+[The world’s brightest minds](https://www.codevscovid19.org/)
+
 [USA-Canada](https://coronavirus.1point3acres.com/#stat) : [School closures](https://coronavirus.1point3acres.com/en/school)
 
 [Germany-Coronavirus-Monitor](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
