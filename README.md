@@ -1,6 +1,8 @@
 Covid-19
 -
 
+[Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) : Very Clear!
+
 [The world’s brightest minds](https://www.codevscovid19.org/)
 
 [USA-Canada](https://coronavirus.1point3acres.com/#stat) : [School closures](https://coronavirus.1point3acres.com/en/school)
