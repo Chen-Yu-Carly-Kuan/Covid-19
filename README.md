@@ -1,6 +1,8 @@
 Covid-19
 -
 
+[MODELLING THE PANDEMIC](https://epcced.github.io/ramp/)
+
 [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) : Very Clear!
 
 [The world’s brightest minds](https://www.codevscovid19.org/)
