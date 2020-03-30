@@ -1,6 +1,8 @@
 Covid-19
 -
 
+[Coronaviruses 101: Focus on Molecular Virology](https://www.youtube.com/watch?v=8_bOhZd6ieM&feature=youtu.be)
+
 [MODELLING THE PANDEMIC](https://epcced.github.io/ramp/)
 
 [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) : Very Clear!
